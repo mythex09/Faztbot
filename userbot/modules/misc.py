@@ -67,21 +67,7 @@ async def killdabot(reboot):
     # Shut the existing one down
     exit()
 
-
-@register(outgoing=True, pattern=r"\.readme$")
-async def reedme(event):
-    await event.edit(
-        "Here's something for you to read:\n"
-        "\n[UserButt's README.md file](https://github.com/mrmissx/userbutt/blob/sql-extended/README.md)"
-        "\n[Setup Guide - Basic](https://telegra.ph/Host-a-Telegram-Userbot-05-07)"
-        "\n[Setup Guide - Google Drive](https://telegra.ph/How-To-Setup-Google-Drive-04-03)"
-        "\n[Setup Guide - LastFM Module](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)"
-        "\n[Video Tutorial - 576p](https://mega.nz/#!ErwCESbJ!1ZvYAKdTEfb6y1FnqqiLhHH9vZg4UB2QZNYL9fbQ9vs)"
-        "\n[Video Tutorial - 1080p](https://mega.nz/#!x3JVhYwR!u7Uj0nvD8_CyyARrdKrFqlZEBFTnSVEiqts36HBMr-o)"
-        "\n[Setup Guide - In Bahasa](https://telegra.ph/UserIndoBot-05-21-3)"
-        "\n[Instant Setup - String Session](https://userbutt.keselekpermen.repl.run)")
-
-
+    
 # Copyright (c) Gegham Zakaryan | 2019
 @register(outgoing=True, pattern=r"\.repeat (.*)")
 async def repeat(rep):
@@ -101,7 +87,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """For .repo command, just returns the repo URL."""
     await wannasee.edit(
-        "[Click here](https://github.com/mrmissx/userbutt) to open UserButt's repo."
+        "[Click here](https://github.com/mythex09/Faztbot) to open Faztbot's repo."
     )
 
 
