@@ -51,4 +51,4 @@ Join [Fazt Support Group](https://t.me/op_squad) for discussion, bug reporting, 
 
 ## Credits
 
-* [IllusionX](https://t.me/burt_x_fire) - Telegram-Faztbot
+* [IllusionX](https://t.me/burst_x_fire) - Telegram-Faztbot
