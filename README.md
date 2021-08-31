@@ -7,8 +7,8 @@
     <a href="https://github.com/mythex09/Faztbot/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/mythex09/Faztbot?style=for-the-badge&logo=github" alt="Contributors" /></a>
     <a href="https://github.com/mythex09/Faztbot/network/members"><img src="https://img.shields.io/github/forks/mythex09/Faztbot?label=Fork&style=for-the-badge&logo=github" alt="fork" /></a>
     <a href="https://github.com/mythex09/Faztbot"><img src="https://img.shields.io/github/repo-size/mythex09/Faztbot?style=for-the-badge&logo=github" alt="size" /></a>
-    <a href="https://hub.docker.com/r/mrmiss/Faztbot"> <img src="https://img.shields.io/docker/image-size/mrmiss/Faztbot/latest?color=red&label=Docker%20Size&style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a></br>
-    <a href="https://t.me/userbotindo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="support" /></a>
+    <a href="https://hub.docker.com/r/mythex09/Faztbot"> <img src="https://img.shields.io/docker/image-size/mrmiss/Faztbot/latest?color=red&label=Docker%20Size&style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a></br>
+    <a href="https://t.me/op_squad"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="support" /></a>
 </p>
 
 ```
