@@ -1,3 +1,4 @@
+FROM mrmiss/userbutt:latest
 #
 # Clone repo and prepare working directory
 #
