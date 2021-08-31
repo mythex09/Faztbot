@@ -47,9 +47,7 @@ For further guide you can head to [Groups and Support](https://github.com/mythex
 
 ## Groups and Support
 
-Join [Userbot Indonesia Channel](https://t.me/userbotindocloud) for update notifications or announcement.
-
-Join [Userbotindo Support Group](https://t.me/userbotindo) for discussion, bug reporting, and help.
+Join [Fazt Support Group](https://t.me/op_squad) for discussion, bug reporting, and help.
 
 ## Credits
 
