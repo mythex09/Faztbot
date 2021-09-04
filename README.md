@@ -35,7 +35,7 @@ Easy way to get STRING_SESSION.
 
 ### Run on repl.it
 
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://replit.com/@KeselekPermen/userbutt)
+[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://replit.com/@sandeep1709/generatestringsession)
 
 ## How To Host
 
